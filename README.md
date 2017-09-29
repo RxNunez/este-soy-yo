@@ -9,8 +9,8 @@
 This program ...
 
 ## ScreenShots
-* _Adding Details_
-![image of xxxxx](https://github.com/RxNunez/este-soy-yo/images/XXX.jpg?raw=true "XXX")
+* _Start of Todays Journey_
+![image of Screenshots](https://github.com/RxNunez/este-soy-yo/images/Screenshot1.png?raw=true "Starting a new track")
 * _Retrieving multiple details_
 ![image of xxxx](https://github.com/RxNunez/este-soy-yo/images/XXX.png?raw=true "XXX")
 
