@@ -6,13 +6,16 @@
 
 ## Description
 
-This program ...
+This program is to paint a picture of an individual developers struggles to stay ahead in their current development environment. Since this developer has found that multiple sources of information is best for a developer, as placing stock in only one venue can be detrimental to developing the skills needed to succeed.
 
 ## ScreenShots
 * _Start of Todays Journey_
-![image of Screenshots](https://github.com/RxNunez/este-soy-yo/images/Screenshot1.png?raw=true "Starting a new track")
-* _Retrieving multiple details_
-![image of xxxx](https://github.com/RxNunez/este-soy-yo/images/XXX.png?raw=true "XXX")
+![image of Screenshot1](https://github.com/RxNunez/este-soy-yo/images/Screenshot1.png?raw=true "Starting a new track")
+* _Retrieving the necessary tools_
+![image of Screenshot2](https://github.com/RxNunez/este-soy-yo/images/Screenshot2.png?raw=true "Downloading tool requirements")
+* _Showing signs of progress_
+![image of Screenshot3](https://github.com/RxNunez/este-soy-yo/images/Screenshot3.png?raw=true "Progressing through an additional resource")
+
 
 ## Development Specifications
 
