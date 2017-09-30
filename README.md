@@ -21,6 +21,8 @@ This program is to paint a picture of an individual developers struggles to stay
 ![image of Screenshot5](https://github.com/RxNunez/este-soy-yo/images/Screenshot5.png?raw=true "The first steps in a new beginning")
 * _Adapting tool environments_
 ![image of Screenshot6](https://github.com/RxNunez/este-soy-yo/images/Screenshot6.png?raw=true "Exploring new possibilities")
+* _Seeing results_
+![image of Screenshot7](https://github.com/RxNunez/este-soy-yo/images/Screenshot7.png?raw=true "Accomplishing new tasks")
 
 
 
