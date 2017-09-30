@@ -19,6 +19,8 @@ This program is to paint a picture of an individual developers struggles to stay
 ![image of Screenshot4](https://github.com/RxNunez/este-soy-yo/images/Screenshot4.png?raw=true "The Road to future discovery")
 * _Creating step by step_
 ![image of Screenshot5](https://github.com/RxNunez/este-soy-yo/images/Screenshot5.png?raw=true "The first steps in a new beginning")
+* _Adapting tool environments_
+![image of Screenshot6](https://github.com/RxNunez/este-soy-yo/images/Screenshot6.png?raw=true "Exploring new possibilities")
 
 
 
