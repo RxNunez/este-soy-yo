@@ -15,6 +15,9 @@ This program is to paint a picture of an individual developers struggles to stay
 ![image of Screenshot2](https://github.com/RxNunez/este-soy-yo/images/Screenshot2.png?raw=true "Downloading tool requirements")
 * _Showing signs of progress_
 ![image of Screenshot3](https://github.com/RxNunez/este-soy-yo/images/Screenshot3.png?raw=true "Progressing through an additional resource")
+* _Discovering more useful embedded links_
+![image of Screenshot4](https://github.com/RxNunez/este-soy-yo/images/Screenshot4.png?raw=true "The Road to future discovery")
+
 
 
 ## Development Specifications
@@ -42,8 +45,8 @@ _Ryan Nunez. Email: nunez.ryan@gmail.com_
 
 ## Technologies Used
 
-_xxx_
-_xxx_
+_Android SDK_
+_Java_
 _xxx_
 _xxx_
 _xxx_
