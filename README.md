@@ -17,6 +17,8 @@ This program is to paint a picture of an individual developers struggles to stay
 ![image of Screenshot3](https://github.com/RxNunez/este-soy-yo/images/Screenshot3.png?raw=true "Progressing through an additional resource")
 * _Discovering more useful embedded links_
 ![image of Screenshot4](https://github.com/RxNunez/este-soy-yo/images/Screenshot4.png?raw=true "The Road to future discovery")
+* _Creating step by step_
+![image of Screenshot5](https://github.com/RxNunez/este-soy-yo/images/Screenshot5.png?raw=true "The first steps in a new beginning")
 
 
 
