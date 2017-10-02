@@ -6,7 +6,7 @@
 
 ## Description
 
-This program is to paint a picture of an individual developers struggles to stay ahead in their current development environment. Since this developer has found that multiple sources of information is best for a developer, as placing stock in only one venue can be detrimental to developing the skills needed to succeed.
+This program is to paint a picture of an individual developers struggles to stay ahead in their current development environment. Since this developer has found that multiple sources of information is best for a developer, as placing stock in only one venue can be detrimental to developing the skills needed to succeed; the treehouse platform of information has been tapped as a secondary resource. Most of the struggle in setting up the Android SDK was getting and setting up the drivers for a live android product instead of an emulator, but the reward of seeing the small app live on a personal device was rewarding. The emulator however was much quicker responding. Next area of research will be speeding up the process.
 
 ## ScreenShots
 * _Start of Todays Journey_
@@ -23,6 +23,8 @@ This program is to paint a picture of an individual developers struggles to stay
 ![image of Screenshot6](https://github.com/RxNunez/este-soy-yo/blob/master/images/Screenshot6.png?raw=true "Exploring new possibilities")
 * _Seeing results_
 ![image of Screenshot7](https://github.com/RxNunez/este-soy-yo/blob/master/images/Screenshot7.png?raw=true "Accomplishing new tasks")
+* _Seeing results_
+![image of Screenshot8](https://github.com/RxNunez/este-soy-yo/blob/master/images/Screenshot8.png?raw=true "Earning rewards")
 
 
 
@@ -42,7 +44,7 @@ This program is to paint a picture of an individual developers struggles to stay
 * _Clone this repository_
 * _For a mac, run the following command in your terminal:
 git clone (https://github.com/RxNunez/este-soy-yo.git)_
-* _xxx._
+* _open in android sdk and run app in emulator._
 
 ## Support and contact details
 

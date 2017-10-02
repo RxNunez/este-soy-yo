@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_bright"
     tools:context="com.coquicoding.estesoyyo.EsteSoyYoActivity">
 
     <TextView
-        android:id="@+id/text view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
@@ -17,7 +17,7 @@
         android:textSize="24sp" />
 
     <TextView
-        android:id="@+id/text view"
+        android:id="@+id/infoTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
@@ -26,13 +26,13 @@
         android:text="Android online communities are a good source of information and help."
         android:textSize="24sp" />
 
-    <ToggleButton
-        android:id="@+id/toggleButton"
-        android:layout_width="wrap_content"
+    <Button
+        android:id="@+id/infoButton"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:text="ToggleButton" />
+        android:text="Show me more information" />
 
 
 </RelativeLayout>
